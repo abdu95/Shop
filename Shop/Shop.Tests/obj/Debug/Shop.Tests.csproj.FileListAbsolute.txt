@@ -1,0 +1,35 @@
+C:\Users\Lectures\Documents\WAD\Shop\Shop.Tests\bin\Debug\Shop.Tests.dll
+C:\Users\Lectures\Documents\WAD\Shop\Shop.Tests\bin\Debug\Shop.Tests.pdb
+C:\Users\Lectures\Documents\WAD\Shop\Shop.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Lectures\Documents\WAD\Shop\Shop.Tests\bin\Debug\Shop.exe
+C:\Users\Lectures\Documents\WAD\Shop\Shop.Tests\bin\Debug\Shop.pdb
+C:\Users\Lectures\Documents\WAD\Shop\Shop.Tests\obj\Debug\Shop.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Lectures\Documents\WAD\Shop\Shop.Tests\obj\Debug\Shop.Tests.dll
+C:\Users\Lectures\Documents\WAD\Shop\Shop.Tests\obj\Debug\Shop.Tests.pdb
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\bin\Debug\Shop.Tests.dll
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\bin\Debug\Shop.Tests.pdb
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\bin\Debug\Shop.exe
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\bin\Debug\Shop.pdb
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\obj\Debug\Shop.Tests.csprojResolveAssemblyReference.cache
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\obj\Debug\Shop.Tests.dll
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\obj\Debug\Shop.Tests.pdb
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\bin\Debug\Shop.Tests.dll
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\bin\Debug\Shop.Tests.pdb
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\bin\Debug\Shop.exe
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\bin\Debug\Shop.pdb
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\obj\Debug\Shop.Tests.csprojResolveAssemblyReference.cache
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\obj\Debug\Shop.Tests.dll
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop.Tests\obj\Debug\Shop.Tests.pdb
+F:\testing videos\TW6\Shop\Shop.Tests\bin\Debug\Shop.Tests.dll
+F:\testing videos\TW6\Shop\Shop.Tests\bin\Debug\Shop.Tests.pdb
+F:\testing videos\TW6\Shop\Shop.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\testing videos\TW6\Shop\Shop.Tests\bin\Debug\Shop.exe
+F:\testing videos\TW6\Shop\Shop.Tests\bin\Debug\Shop.pdb
+F:\testing videos\TW6\Shop\Shop.Tests\bin\Debug\Shop.exe.config
+F:\testing videos\TW6\Shop\Shop.Tests\obj\Debug\Shop.Tests.csprojAssemblyReference.cache
+F:\testing videos\TW6\Shop\Shop.Tests\obj\Debug\Shop.Tests.csproj.CoreCompileInputs.cache
+F:\testing videos\TW6\Shop\Shop.Tests\obj\Debug\Shop.Tests.csproj.CopyComplete
+F:\testing videos\TW6\Shop\Shop.Tests\obj\Debug\Shop.Tests.dll
+F:\testing videos\TW6\Shop\Shop.Tests\obj\Debug\Shop.Tests.pdb

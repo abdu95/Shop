@@ -1,0 +1,28 @@
+C:\Users\Lectures\Documents\WAD\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\Lectures\Documents\WAD\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\Lectures\Documents\WAD\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\Lectures\Documents\WAD\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\Lectures\Documents\WAD\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\Lectures\Documents\WAD\Shop\Shop\obj\Debug\Shop.pdb
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop\bin\Debug\Shop.exe.config
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop\obj\Debug\Shop.exe
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop\obj\Debug\Shop.pdb
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop\bin\Debug\Shop.exe
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop\bin\Debug\Shop.pdb
+D:\WIUT SOFT\Soft_Tut6\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop\bin\Debug\Shop.exe.config
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop\obj\Debug\Shop.exe
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop\obj\Debug\Shop.pdb
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop\bin\Debug\Shop.exe
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop\bin\Debug\Shop.pdb
+D:\Testing\WIUT SOFT\Soft_Tut6\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+F:\testing videos\TW6\Shop\Shop\bin\Debug\Shop.exe.config
+F:\testing videos\TW6\Shop\Shop\bin\Debug\Shop.exe
+F:\testing videos\TW6\Shop\Shop\bin\Debug\Shop.pdb
+F:\testing videos\TW6\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+F:\testing videos\TW6\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+F:\testing videos\TW6\Shop\Shop\obj\Debug\Shop.exe
+F:\testing videos\TW6\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\a.malikov\Desktop\Testing\testing videos\TW6\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\a.malikov\Desktop\Testing\testing videos\TW6\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\a.malikov\Desktop\Testing\testing videos\TW6\Shop\Shop\obj\Debug\Shop.pdb
